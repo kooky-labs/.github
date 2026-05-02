@@ -26,4 +26,4 @@ The public repositories below are the tools and patterns we think other teams ca
 ## Contact
 
 - Founder: [Renato Goulart](https://github.com/rgoulartai)
-- Web: [kooky.com](https://kooky.com)
+- Web: [kooky.com.br](https://kooky.com.br)
