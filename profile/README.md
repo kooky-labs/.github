@@ -1,9 +1,3 @@
-<!--
-  Destination: github.com/kooky-labs/.github (a public repo inside the kooky-labs org named ".github").
-  This file goes at: profile/README.md
-  GitHub renders it on the org page at github.com/kooky-labs.
--->
-
 # KOOKY AI Exchange
 
 **AI-first systems for ambitious teams.**
