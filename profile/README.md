@@ -1,18 +1,27 @@
+<!--
+  Destination: github.com/kooky-labs/.github (a public repo inside the kooky-labs org named ".github").
+  This file goes at: profile/README.md
+  GitHub renders it on the org page at github.com/kooky-labs.
+-->
+
 # KOOKY AI Exchange
 
 **AI-first systems for ambitious teams.**
 
-We design and deploy AI agent and multi-agent systems that automate operational, sales, qualification, and administrative workflows. Built on Relevance.ai and Claude Code.
+We design and deploy AI agent and multi-agent systems that automate operational, sales, qualification, and administrative workflows. Built primarily on Anthropic Claude (Claude Code, Managed Agents, Sonnet and Opus), with Relevance.ai for client-facing deployments and n8n / Make for workflow integration.
+
+São Paulo–based, building for Brazilian and LATAM teams with LGPD-compliant per-client deployments.
 
 ## What we work on
 
 Beyond the public repositories below, our internal work spans:
 
-- Multi-agent orchestration and governance frameworks
-- AI-native CRM and operational systems
-- Agent infrastructure, security, and configuration
-- Integration tooling for workflow platforms (n8n, Make)
-- Knowledge engineering and self-improving systems
+- **Multi-agent orchestration** with budget-aware routing across model tiers (planning vs. execution, expensive vs. cheap)
+- **Multi-LLM coordination patterns** — Claude as primary orchestrator, specialist models for independent review and validation
+- **Multi-modal RAG** — chat with documents, audio, video, and images, with white-label / multi-tenant architectures
+- **Agent-first CRM and operational systems** — per-client deployments with privacy and compliance baked in
+- **Agent infrastructure, security hardening, and configuration**
+- **Workflow integration tooling** — n8n, Make, and curated Claude Code skill libraries
 
 The public repositories below are the tools and patterns we think other teams can use.
 
@@ -25,5 +34,5 @@ The public repositories below are the tools and patterns we think other teams ca
 
 ## Contact
 
-- Founder: [Renato Goulart](https://github.com/rgoulartai)
+- Founder & AI-First Systems Architect: [Renato Goulart](https://github.com/rgoulartai). Hands-on with architecture, agent design, and client deployments.
 - Web: [kooky.com.br](https://kooky.com.br)
