@@ -25,6 +25,15 @@ The public repositories below are the tools and patterns we think other teams ca
 - **[kooky-skills-approved](https://github.com/kooky-labs/kooky-skills-approved)** — Curated, vetted Claude Code skills for the Cartel bot platform.
 - **[kooky-agent-security-hardening](https://github.com/kooky-labs/kooky-agent-security-hardening)** — Security hardening for Clawdbot / Moltbot instances.
 - **[cleo](https://github.com/kooky-labs/cleo)** — (fork) Production-grade task management for Claude Code with anti-hallucination protection.
+- **[claude-cookbooks](https://github.com/kooky-labs/claude-cookbooks)** — (fork) LATAM-adapted patterns for Anthropic's Claude cookbooks. Companion code to the LinkedIn series on *Claude for Small Business* in LATAM.
+
+## Public writing
+
+LinkedIn series on adapting Anthropic's *Claude for Small Business* for the LATAM stack. Companion code lives in [`claude-cookbooks/LATAM`](https://github.com/kooky-labs/claude-cookbooks/tree/main/LATAM).
+
+- [Article #1 — Why Claude for Small Business might face slower adoption in LATAM](https://www.linkedin.com/pulse/why-claude-small-business-might-face-slower-adoption-latam-goulart-u1ywe/)
+- [Article #2 — Localizing Claude for Small Business: the LATAM gap isn't language](https://www.linkedin.com/pulse/localizing-claude-small-business-latam-gap-isnt-language-goulart-geuye)
+- [Article #3 — My Claude for Small Business got a NO from ContaAzul this week](https://www.linkedin.com/pulse/my-claude-small-business-got-from-contaazul-week-renato-goulart-ohiff)
 
 ## Contact
 
