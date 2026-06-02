@@ -35,6 +35,10 @@ LinkedIn series on adapting Anthropic's *Claude for Small Business* for the LATA
 - [Article #2 — Localizing Claude for Small Business: the LATAM gap isn't language](https://www.linkedin.com/pulse/localizing-claude-small-business-latam-gap-isnt-language-goulart-geuye)
 - [Article #3 — My Claude for Small Business got a NO from ContaAzul this week](https://www.linkedin.com/pulse/my-claude-small-business-got-from-contaazul-week-renato-goulart-ohiff)
 
+Build-in-public notes on running a one-human company on an agent stack:
+
+- [I gave my AI agents a better memory. They got worse. Here's what fixed it.](https://www.linkedin.com/pulse/i-gave-my-ai-agents-better-memory-got-worse-here-what-renato-goulart-2ulkf/)
+
 ## Contact
 
 - Founder & AI-First Systems Architect: [Renato Goulart](https://github.com/rgoulartai). Hands-on with architecture, agent design, and client deployments.
