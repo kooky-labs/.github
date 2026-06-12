@@ -34,6 +34,8 @@ LinkedIn series on adapting Anthropic's *Claude for Small Business* for the LATA
 - [Article #1 — Why Claude for Small Business might face slower adoption in LATAM](https://www.linkedin.com/pulse/why-claude-small-business-might-face-slower-adoption-latam-goulart-u1ywe/)
 - [Article #2 — Localizing Claude for Small Business: the LATAM gap isn't language](https://www.linkedin.com/pulse/localizing-claude-small-business-latam-gap-isnt-language-goulart-geuye)
 - [Article #3 — My Claude for Small Business got a NO from ContaAzul this week](https://www.linkedin.com/pulse/my-claude-small-business-got-from-contaazul-week-renato-goulart-ohiff)
+- [Article #4 — AI can read your books. Make sure it can't accidentally damage your business.](https://www.linkedin.com/pulse/ai-can-read-your-books-make-sure-cant-accidentally-damage-goulart-5eref/)
+- [Article #5 — Brazil made payments free. I almost added the cost back without noticing.](https://www.linkedin.com/pulse/brazil-made-payments-free-i-almost-added-cost-back-without-goulart-xeh8f)
 
 Build-in-public notes on running a one-human company on an agent stack:
 
